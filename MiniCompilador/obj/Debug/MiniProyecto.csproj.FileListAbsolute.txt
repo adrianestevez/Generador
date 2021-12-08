@@ -1,0 +1,20 @@
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.exe.config
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.exe
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\bin\Debug\analizadorLexico.pdb
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\MiniProyecto.csproj.AssemblyReference.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.Principal.resources
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.Properties.Resources.resources
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\MiniProyecto.csproj.GenerateResource.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\MiniProyecto.csproj.CoreCompileInputs.cache
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.exe
+C:\Users\URIEL\Desktop\pruebax\AnalizadorSemantico-main\analizadorLexico\obj\Debug\analizadorLexico.pdb
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\bin\Debug\analizadorLexico.exe.config
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\bin\Debug\analizadorLexico.exe
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\bin\Debug\analizadorLexico.pdb
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\MiniProyecto.csprojAssemblyReference.cache
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\analizadorLexico.Principal.resources
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\analizadorLexico.Properties.Resources.resources
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\MiniProyecto.csproj.GenerateResource.cache
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\MiniProyecto.csproj.CoreCompileInputs.cache
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\analizadorLexico.exe
+A:\UDG\Trabajos\5to Semestre\Seminario de Traductores 2\Proyecto Final\Prototipo 1\MiniProyectoU-a2e228b9ee3fe94c72437d6a694cd6cb9270f351\MiniCompilador\obj\Debug\analizadorLexico.pdb
